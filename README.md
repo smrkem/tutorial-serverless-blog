@@ -1,2 +1,4 @@
 # tutorial-serverless-blog
-Account of my first experience creating a serverless application
+This will be an account of my first experience creating a serverless application. Hopefully. 
+
+The repo will be organized into folders (Chapters).
